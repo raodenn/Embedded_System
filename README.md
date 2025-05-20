@@ -40,24 +40,12 @@ Low Cost and Power Consumption
 
 Continuous Loop Monitoring
 
-## Components Used
-
-## Component	Description
+## Components Used and	Description
 
 Arduino Uno	Microcontroller board for logic processing
 PIR Motion Sensor	HC-SR505 for infrared motion detection
 Jumper Wires	Male-Female jumper cables for circuit connections
 
-## Circuit Design
-
-## Connections
-
-PIR Pin	Jumper Color	Arduino Pin	Function
-VCC	White	5V	Power Supply
-GND	Blue	GND	Ground Connection
-OUT	Purple	Digital 7	Signal Transmission
-
-Power is supplied via USB to Arduino, which also powers the sensor.
 
 ## Flow Summary
 
